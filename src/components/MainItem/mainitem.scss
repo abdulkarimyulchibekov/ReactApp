@@ -1,3 +1,8 @@
+.nimadir {
+  display: flex;
+  flex-direction: column;
+}
+
 .main__list {
   margin: 0;
   padding: 0;
@@ -17,7 +22,7 @@ p {
   padding-left: 32px;
 }
 
-.box1 {
+.box10 {
   display: flex;
   align-items: center;
 }

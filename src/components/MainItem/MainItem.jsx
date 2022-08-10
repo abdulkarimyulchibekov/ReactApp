@@ -5,7 +5,7 @@ function MainItem({ img, text1, desc1, text2, desc2, text3, desc3, button }) {
   console.log(text1);
 	return (
 		<li className='main__item'>
-			<div className='box1'>
+			<div className='box10'>
 				<img className='box1__img' src={img} alt='' />
 				<div className='box1__box'>
 					<p style={{ width: 372 }} className='box__text'>
