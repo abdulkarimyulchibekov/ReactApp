@@ -1,0 +1,58 @@
+.site-bottom {
+  margin: 30px;
+  padding-top: 32px;
+}
+
+.tickets {
+  background: #FFFFFF;
+  border: 1px solid #DFE0EB;
+  border-radius: 8px;
+  margin-right: 30px;
+  width: 546px;
+}
+
+.tickets__top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-right: 32px;
+}
+
+.tickets__left {
+  padding-left: 32px;
+  margin-right: 62px;
+  width: 336px;
+}
+
+.tickets__header {
+  font-weight: 700;
+  font-size: 19px;
+  line-height: 24px;
+  letter-spacing: 0.4px;
+  color: #252733;
+}
+
+.tickets__och {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 16px;
+  letter-spacing: 0.1px;
+  color: #9FA2B4;
+}
+
+.tickets__toq {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 16px;
+  letter-spacing: 0.1px;
+  color: #565A71;
+}
+
+.tickets__btn {
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 20px;
+  text-align: right;
+  letter-spacing: 0.2px;
+  color: #3751FF;
+}

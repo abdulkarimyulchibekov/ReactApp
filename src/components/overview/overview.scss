@@ -1,0 +1,58 @@
+.main {
+  display: flex;
+  flex-direction: column;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+}
+
+.header__text {
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 30px;
+  letter-spacing: 0.3px;
+  color: #252733;
+  margin-left: 30px;
+  width: 771px;
+}
+
+.header__box {
+  display: flex;
+  align-items: center;
+}
+
+.header__search {
+  margin-right: 26px;
+}
+
+.header__new {
+  margin-right: 33px;
+}
+
+.header__line {
+  width: 2px;
+  height: 32px;
+  background-color: #DFE0EB;
+  margin-right: 32px;
+}
+
+.header__user {
+  display: flex;
+  align-items: center;
+}
+
+.header__desc {
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 20px;
+  text-align: right;
+  letter-spacing: 0.2px;
+  color: #252733;
+  margin-right: 16px;
+} 
+
+.site-bottom {
+  display: flex;
+}
